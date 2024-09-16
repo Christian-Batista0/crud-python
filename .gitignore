@@ -1,0 +1,7 @@
+/dist/
+/build/
+*.spec
+*.exe
+*.dll
+*.so
+*.dylib
